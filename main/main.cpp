@@ -94,6 +94,4 @@ int main(int argc, char *argv[])
     process.execute("/home/superbin/startapp.sh");
 
     return nRet;
-
-    // I Want RM THis One
 }
